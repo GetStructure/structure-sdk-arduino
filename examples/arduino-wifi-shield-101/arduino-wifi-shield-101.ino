@@ -8,8 +8,8 @@
  * Button connected to pin 14.
  * LED connected to pin 12.
  *
- * Copyright (c) 2016 Structure. All rights reserved.
- * http://www.getstructure.io
+ * Copyright (c) 2016 Losant. All rights reserved.
+ * https://www.losant.com
  */
 
 #include <WiFi101.h>
